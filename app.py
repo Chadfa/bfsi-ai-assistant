@@ -1,10 +1,12 @@
 from similarity_engine import SimilarityEngine
 from rag_engine import RAGEngine
 from guardrails import is_out_of_domain, contains_sensitive_data
+from slm_engine import SLMEngine
 
 
 sim_engine = SimilarityEngine("dataset/bfsi_alpaca.json")
 rag_engine = RAGEngine("rag/knowledge_docs.txt")
+slm_engine = SLMEngine()
 
 
 def get_response(query):
@@ -21,6 +23,11 @@ def get_response(query):
     if response:
         return response
 
+    # Tier 2 — Lightweight SLM
+    slm_response = slm_engine.generate(query)
+    if slm_response:
+        return slm_response
+    
     # Tier 3 - RAG fallback
     retrieved_docs = rag_engine.retrieve(query)
     return f"Based on our internal policy documentation:\n\n{retrieved_docs[0]}\n\nFor exact figures or account-specific details, please refer to your loan agreement or contact support."

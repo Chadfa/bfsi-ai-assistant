@@ -16,6 +16,8 @@ Guardrails (Security & Compliance Check)
 ↓  
 Tier 1: Dataset Similarity Match (FAISS + Sentence Transformers)  
 ↓  
+Tier 2: Lightweight Fine-Tuned SLM Layer  
+↓  
 Tier 3: RAG Retrieval (if no strong dataset match)  
 ↓  
 Final Response  
@@ -27,6 +29,8 @@ Final Response
 - 150+ Alpaca-formatted BFSI dataset
 - Local embedding-based similarity search
 - FAISS vector indexing
+- Modular 3-tier response architecture
+- Lightweight SLM layer for domain-based generation
 - Retrieval-Augmented Generation (RAG) layer
 - Security guardrails (out-of-domain + sensitive data protection)
 - Fully local execution

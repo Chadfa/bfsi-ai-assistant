@@ -1,0 +1,17 @@
+Home Loan Interest Policy:
+Home loan interest rates may be fixed or floating. Fixed rates remain constant during the tenure, while floating rates change based on market benchmarks and RBI guidelines.
+
+Personal Loan EMI Calculation:
+EMI is calculated using the formula: EMI = [P × R × (1+R)^N] / [(1+R)^N − 1], where P is principal, R is monthly interest rate, and N is tenure in months.
+
+Foreclosure Charges:
+Foreclosure charges may apply if a loan is closed before the agreed tenure. Charges vary depending on loan type and policy guidelines.
+
+Late Payment Penalty:
+If EMI is not paid on time, a late payment penalty may be applied as per the loan agreement terms.
+
+Account Update Policy:
+Customer details such as address, mobile number, or email can be updated through official portal verification or branch visit with valid identification.
+
+Loan Processing Time:
+Loan processing typically takes 3 to 7 working days depending on documentation verification and eligibility assessment.

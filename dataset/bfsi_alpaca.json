@@ -1,0 +1,752 @@
+[
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "personal loan eligibility",
+    "input": "Can you explain personal loan eligibility?",
+    "output": "Personal loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "home loan eligibility",
+    "input": "Can you explain home loan eligibility?",
+    "output": "Home loan eligibility depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "EMI schedule",
+    "input": "Can you explain EMI schedule?",
+    "output": "Emi schedule depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "interest rate details",
+    "input": "Can you explain interest rate details?",
+    "output": "Interest rate details depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan foreclosure charges",
+    "input": "Can you explain loan foreclosure charges?",
+    "output": "Loan foreclosure charges depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "late payment penalty",
+    "input": "Can you explain late payment penalty?",
+    "output": "Late payment penalty depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "loan processing time",
+    "input": "Can you explain loan processing time?",
+    "output": "Loan processing time depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "credit score requirement",
+    "input": "Can you explain credit score requirement?",
+    "output": "Credit score requirement depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "application rejection reason",
+    "input": "Can you explain application rejection reason?",
+    "output": "Application rejection reason depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  },
+  {
+    "instruction": "account update process",
+    "input": "Can you explain account update process?",
+    "output": "Account update process depends on bank policies and customer profile. Please refer to the official portal or contact support for accurate information."
+  }
+]
